@@ -1,0 +1,15 @@
+# API
+
+## Public
+
+```@autodocs
+Modules = [EconJobMarket]
+Private = false
+```
+
+## Private
+
+```@autodocs
+Modules = [EconJobMarket]
+Public = false
+```
